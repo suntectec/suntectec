@@ -11,8 +11,8 @@ Learn more about Flink at [https://flink.apache.org/](https://flink.apache.org/)
 
 ### Hi there 👋
 
-- 🔭 I’m currently working on [Apache Flink](http://github.com/apache/flink/) [Flink CDC](http://github.com/ververica/flink-cdc-connectors) [Apache Seatunnel](https://github.com/apache/seatunnel) [Apache Seatunnel Website](https://github.com/apache/seatunnel-website)
-- 📫 You can reach me in [Twitter](https://x.com/suntectec)
+- 🔭 I’m currently working on [Apache Flink](http://github.com/apache/flink/), [Apache Flink CDC](http://github.com/ververica/flink-cdc-connectors), [Apache Seatunnel](https://github.com/apache/seatunnel), [Apache Seatunnel Website](https://github.com/apache/seatunnel-website)
+- 📫 You can reach me in [Twitter](https://x.com/suntectec) or [CSDN](https://blog.csdn.net/m0_63628018)
 - ⚡ Fun fact: AI & RealTime
 
 <!--
