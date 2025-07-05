@@ -7,11 +7,11 @@
   <img src="https://img.shields.io/badge/Flink-SUNTECTEC-white?logo=apacheflink&logoColor=%23E6526F&labelColor=black" alt="CI Badge"/>
 </p>
 
-Learn more about Flink at [https://flink.apache.org/](https://flink.apache.org/)
+Learn more about Flink at [https://flink.apache.org/](https://flink.apache.org/) and Paimon at [https://paimon.apache.org/](https://paimon.apache.org/)
 
 ### Hi there 👋
 
-- 🔭 I’m currently working on [Apache Flink](http://github.com/apache/flink/), [Apache Flink CDC](http://github.com/ververica/flink-cdc-connectors), [Apache Seatunnel](https://github.com/apache/seatunnel), [Apache Seatunnel Website](https://github.com/apache/seatunnel-website)
+- 🔭 I’m currently working on [Apache Flink](http://github.com/apache/flink/), [Apache Paimon](https://github.com/apache/paimon), [Apache Flink CDC](http://github.com/ververica/flink-cdc-connectors), [Apache Seatunnel](https://github.com/apache/seatunnel), [Apache Seatunnel Website](https://github.com/apache/seatunnel-website)
 - 📫 You can reach me in [Twitter](https://x.com/suntectec) or [CSDN](https://blog.csdn.net/m0_63628018)
 - ⚡ Fun fact: AI & RealTime
 
