@@ -4,8 +4,7 @@
 
 ### Hi there 👋
 
-- 🔭 I’m currently working on [Apache Flink](http://github.com/apache/flink/)
-- 👯 I’m looking to collaborate on [Flink CDC](http://github.com/ververica/flink-cdc-connectors)
+- 🔭 I’m currently working on [Apache Flink](http://github.com/apache/flink/) [Flink CDC](http://github.com/ververica/flink-cdc-connectors) [Apache Seatunnel](https://github.com/apache/seatunnel) [Apache Seatunnel Website](https://github.com/apache/seatunnel-website)
 - 📫 You can reach me in [Twitter](https://x.com/suntectec)
 - ⚡ Fun fact: AI
 
