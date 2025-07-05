@@ -31,5 +31,5 @@ Here are some ideas to get you started:
 -->
 
 ![image](https://github.com/user-attachments/assets/c4b6a859-e2f2-4601-8de4-c2be15e06ce4)
-![image1](https://github.com/user-attachments/assets/8291d701-636a-45ee-b9ea-0065aa7257e9)
+![image1](https://github.com/user-attachments/assets/736794ef-38b6-432c-ae10-fbd91a520516)
 ![image](https://github.com/user-attachments/assets/d535dcf0-02b2-43c6-84f3-7a389f654dc3)
