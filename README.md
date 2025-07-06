@@ -1,7 +1,10 @@
  <h1 align="center">The Apache Software Foundation Contributor in AI & RealTime & BlockChain</h3>
 
 <p align="center">
-  <img src="https://apache.org/img/asf-estd-1999-logo.jpg" alt="dbt logo" width="520"/>
+<!--   <img src="https://apache.org/foundation/press/kit/asf-estd-1999-logo.svg" alt="dbt logo" width="520"/> -->
+<!--   <img src="https://apache.org/foundation/press/kit/Indigo_THE_APACHE_WAY_Badge.png" alt="dbt logo" width="520"/> -->
+  <img src="https://apache.org/foundation/press/kit/asf-estd-1999-logo.png" alt="dbt logo" width="520"/>
+  <img src="https://apache.org/foundation/press/kit/community_over_code_logo.png" alt="dbt logo" width="520"/>
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Flink-SUNTECTEC-white?logo=apacheflink&logoColor=%23E6526F&labelColor=black" alt="CI Badge"/>
