@@ -1,4 +1,4 @@
- <h1 align="center">The Apache Software Foundation Contributor in AI & RealTime</h3>
+ <h1 align="center">The Apache Software Foundation Contributor in AI & RealTime & BlockChain</h3>
 
 <p align="center">
   <img src="https://apache.org/img/asf-estd-1999-logo.jpg" alt="dbt logo" width="520"/>
@@ -9,11 +9,23 @@
 
 Learn more about Flink at [https://flink.apache.org/](https://flink.apache.org/) and Paimon at [https://paimon.apache.org/](https://paimon.apache.org/)
 
-### Hi there 👋
+### Hey 👋🏽, I'm [SunTecTec](https://suntectec.com)
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=suntectec&show_icons=true&hide_border=true&theme=vue-dark" />
+
+Hi, I'm a RealTime Techie Architect, using **Python**, **Java**, **Scala** and proj in **Flink**, **Paimon**, **Seatunnel**, **Iceberg**, **Doris**, ElasticSearch, Neo4j, StreamPark, etc. I love learning new things and building interesting stuff. I'm also a Blockchain Enthusiast and a Blockchain Developer.
+
+**About me:**
 
 - 🔭 I’m currently working on [Apache Flink](http://github.com/apache/flink/), [Apache Paimon](https://github.com/apache/paimon), [Apache Flink CDC](http://github.com/ververica/flink-cdc-connectors), [Apache Seatunnel](https://github.com/apache/seatunnel), [Apache Seatunnel Website](https://github.com/apache/seatunnel-website)
-- 📫 You can reach me in [Twitter](https://x.com/suntectec) or [CSDN](https://blog.csdn.net/m0_63628018)
+- 📫 You can reach me in [Twitter](https://x.com/suntectec)
 - ⚡ Fun fact: AI & RealTime
+
+**Social Links:**
+
+- Github: https://github.com/suntectec
+- Blog: https://suntectec.com
+- CSDN：https://blog.csdn.net/m0_63628018
 
 <!--
 **suntectec/suntectec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
