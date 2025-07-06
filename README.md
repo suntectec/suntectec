@@ -5,8 +5,8 @@
 <!--   <img src="https://apache.org/foundation/press/kit/Indigo_THE_APACHE_WAY_Badge.png" alt="apache logo" width="520"/> -->
   <img src="https://apache.org/foundation/press/kit/asf-estd-1999-logo.png" alt="apache logo" width="520"/>
   <img src="https://apache.org/foundation/press/kit/community_over_code_logo.png" alt="apache logo" width="520"/>
-  <img src="https://apache.org/logos/res/flink/flink-1.png" alt="apache logo" width="520"/>
-<!--   <img src="https://apache.org/logos/res/paimon/paimon.png" alt="apache logo" width="520"/>
+<!--   <img src="https://apache.org/logos/res/flink/flink-1.png" alt="apache logo" width="520"/>
+  <img src="https://apache.org/logos/res/paimon/paimon.png" alt="apache logo" width="520"/>
   <img src="https://apache.org/logos/res/doris/doris.png" alt="apache logo" width="520"/>
   <img src="https://apache.org/logos/res/seatunnel/seatunnel.png" alt="apache logo" width="520"/> -->
 </p>
