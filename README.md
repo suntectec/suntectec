@@ -1,4 +1,4 @@
- <h1 align="center">The Apache Software Foundation Contributor in AI & RealTime & BlockChain</h3>
+<h1 align="center">The Apache Software Foundation Contributor in AI & RealTime</h3>
 
 <p align="center">
 <!--   <img src="https://apache.org/foundation/press/kit/asf-estd-1999-logo.svg" alt="apache logo" width="520"/> -->
@@ -49,6 +49,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--
 ![image](https://github.com/user-attachments/assets/c4b6a859-e2f2-4601-8de4-c2be15e06ce4)
 ![image1](https://github.com/user-attachments/assets/736794ef-38b6-432c-ae10-fbd91a520516)
 ![image](https://github.com/user-attachments/assets/d535dcf0-02b2-43c6-84f3-7a389f654dc3)
+-->
