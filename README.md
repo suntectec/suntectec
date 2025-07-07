@@ -24,7 +24,7 @@ Hi, I'm a RealTime Techie Architect, using **Python**, **Java**, **Scala** and p
 
 **About me:**
 
-- 🔭 I’m currently working on [Apache Flink](http://github.com/apache/flink/), [Apache Paimon](https://github.com/apache/paimon), [Apache Flink CDC](http://github.com/ververica/flink-cdc-connectors), [Apache Seatunnel](https://github.com/apache/seatunnel), [Apache Seatunnel Website](https://github.com/apache/seatunnel-website)
+- 🔭 I’m currently working on [Apache Flink](http://github.com/apache/flink/), [Apache Paimon](https://github.com/apache/paimon), [Apache Seatunnel](https://github.com/apache/seatunnel)
 - 📫 You can reach me in [Twitter](https://x.com/suntectec)
 - ⚡ Fun fact: AI & RealTime
 
