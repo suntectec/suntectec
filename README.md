@@ -1,4 +1,4 @@
-<h1 align="center">The Apache Software Foundation Contributor in AI & RealTime</h3>
+<h1 align="center">The Apache Community Contributor in AI & RealTime</h3>
 
 <p align="center">
 <!--   <img src="https://apache.org/foundation/press/kit/asf-estd-1999-logo.svg" alt="apache logo" width="520"/> -->
