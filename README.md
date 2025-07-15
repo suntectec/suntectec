@@ -20,7 +20,7 @@ Learn more about Flink at [https://flink.apache.org/](https://flink.apache.org/)
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=suntectec&show_icons=true&hide_border=true&theme=vue-dark" />
 
-Hi, I'm a RealTime Techie Architect, using **Python**, **Java**, **Scala** and proj in **Flink**, **Paimon**, **Seatunnel**, **Doris**, StreamPark, ElasticSearch, Neo4j, etc. I love learning new things and building interesting stuff. I'm also a Blockchain Enthusiast and a Blockchain Developer.
+Hi, I'm a RealTime Techie Architect, using **Python**, **Java**, **Scala** and proj in **Flink**, **Paimon**, **Seatunnel**, **Doris**, StreamPark, ElasticSearch, Neo4j, Dinky, etc. I love learning new things and building interesting stuff. I'm also a Blockchain Enthusiast and a Blockchain Developer.
 
 **About me:**
 
