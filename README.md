@@ -20,11 +20,6 @@
 
 Hi, I'm a RealTime Techie Architect, using **Python**, **Java**, **Scala** and proj in **Flink**, **Paimon**, **Seatunnel**, **Doris**, StreamPark, ElasticSearch, Neo4j, Dinky, etc. I love learning new things and building interesting stuff. I'm also a Blockchain Enthusiast and a Blockchain Developer.
 
-**About me:**
-
-- 🔭 I’m currently working on [Apache Flink](http://github.com/apache/flink/), [Apache Paimon](https://github.com/apache/paimon), [Apache Seatunnel](https://github.com/apache/seatunnel)
-- ⚡ Fun fact: AI & RealTime
-
 **Social Links:**
 
 - 📫 Github: https://github.com/suntectec
