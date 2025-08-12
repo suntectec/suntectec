@@ -25,14 +25,13 @@ Hi, I'm a RealTime Techie Architect, using **Python**, **Java**, **Scala** and p
 **About me:**
 
 - 🔭 I’m currently working on [Apache Flink](http://github.com/apache/flink/), [Apache Paimon](https://github.com/apache/paimon), [Apache Seatunnel](https://github.com/apache/seatunnel)
-- 📫 You can reach me in [Twitter](https://x.com/suntectec)
 - ⚡ Fun fact: AI & RealTime
 
 **Social Links:**
 
-- Github: https://github.com/suntectec
-- Blog: https://suntectec.com
-- CSDN：https://blog.csdn.net/m0_63628018
+- 📫 Github: https://github.com/suntectec
+- 📫 Blog: https://suntectec.com
+- 📫 CSDN：https://blog.csdn.net/m0_63628018
 
 <!--
 **suntectec/suntectec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
