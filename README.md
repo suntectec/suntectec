@@ -14,8 +14,6 @@
   <img src="https://img.shields.io/badge/Flink-SUNTECTEC-white?logo=apacheflink&logoColor=%23E6526F&labelColor=black" alt="CI Badge"/>
 </p>
 
-Learn more about Flink at [https://flink.apache.org/](https://flink.apache.org/) and Paimon at [https://paimon.apache.org/](https://paimon.apache.org/)
-
 ### Hey 👋, I'm [SunTecTec](https://suntectec.com)
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=suntectec&show_icons=true&hide_border=true&theme=vue-dark" />
