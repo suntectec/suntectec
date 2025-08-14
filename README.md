@@ -14,11 +14,11 @@
   <img src="https://img.shields.io/badge/Flink-SUNTECTEC-white?logo=apacheflink&logoColor=%23E6526F&labelColor=black" alt="CI Badge"/>
 </p>
 
-### Hey 👋, I'm [SunTecTec](https://suntectec.com)
+[SunTecTec](https://suntectec.com)
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=suntectec&show_icons=true&hide_border=true&theme=vue-dark" />
 
-Hi, I'm a RealTime Techie Architect, using **Python**, **Java**, **Scala** and proj in **Flink**, **Paimon**, **Seatunnel**, **Doris**, StreamPark, ElasticSearch, Neo4j, Dinky, etc. I love learning new things and building interesting stuff. I'm also a Blockchain Enthusiast and a Blockchain Developer.
+A RealTime Techie Architect, using **Python**, **Java**, **Scala** and proj in **Flink**, **Paimon**, **Seatunnel**, **Doris**, StreamPark, ElasticSearch, Neo4j, Dinky, etc. I love learning new things and building interesting stuff. I'm also a Blockchain Enthusiast and a Blockchain Developer.
 
 **Social Links:**
 
