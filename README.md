@@ -16,8 +16,6 @@
 
 [SunTecTec](https://suntectec.com)
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=suntectec&show_icons=true&hide_border=true&theme=vue-dark" />
-
 A RealTime Techie Architect, using **Python**, **Java**, **Scala** proj in **Flink**, **Paimon**, **Seatunnel**, **Doris**, StreamPark, ElasticSearch, Neo4j, Dinky, etc. Love learning new things and building interesting stuff also a Blockchain Enthusiast and Developer.
 
 **Social Links:**
