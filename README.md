@@ -16,7 +16,7 @@
 
 [SunTecTec](https://suntectec.com)
 
-A RealTime Techie Architect, using **Python**, **Java**, **Scala** proj in **Flink**, **Paimon**, **Seatunnel**, **Doris**, StreamPark, ElasticSearch, Neo4j, Dinky, etc. Love learning new things and building interesting stuff also a Blockchain Enthusiast and Developer.
+A RealTime Techie Architect, arm with **Python**, **Java**, **Scala** proj in **Flink**, **Paimon**, **Seatunnel**, **Doris**, StreamPark, ElasticSearch, Neo4j, Dinky and etc. Love learning new things and building interesting stuff, meanwhile a Blockchain Enthusiast and Gamer.
 
 **Social Links:**
 
