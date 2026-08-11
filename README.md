@@ -11,7 +11,7 @@
   <img src="https://apache.org/logos/res/seatunnel/seatunnel.png" alt="apache logo" width="520"/> -->
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Apache-suntectec-white?logo=apache&logoColor=%23E6526F&labelColor=#000000" alt="CI Badge"/>
+  <img src="https://img.shields.io/badge/Apache-suntectec-white?logo=apache&logoColor=%23E6526F&labelColor=black" alt="CI Badge"/>
 </p>
 
 [SunTecTec](https://suntectec.com)
