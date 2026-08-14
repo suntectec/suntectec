@@ -10,4 +10,4 @@
 - 📫 How to reach me: suntectec@apache.org
 - ⚡ Fun fact: Love interesting stuffs and solve riddles.
 
-RealTime Techie arms with Python, Java, Scala proj in Flink, Paimon, Seatunnel, Doris, StreamPark, ElasticSearch, Neo4j, Dinky, etc.
+RealTime Techie arms with Python, Java, Scala proj in Flink, Paimon, Seatunnel, Doris, StreamPark, Neo4j, Dinky, etc.
