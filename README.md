@@ -13,6 +13,6 @@
 
 RealTime Techie arms with Python, Java, Scala proj in Flink, Paimon, Seatunnel, Doris, StreamPark, ElasticSearch, Neo4j, Dinky, etc.
 
-**Social Links:**
+Social Links:
 
 - 😄 CSDN：https://blog.csdn.net/m0_63628018
