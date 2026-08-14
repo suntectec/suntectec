@@ -8,10 +8,10 @@
   - Apache Flink CDC
   - Apache Paimon
 - 📫 How to reach me: suntectec@apache.org
-- ⚡ Fun fact: I like to solve riddles. So let me know if you have some good ones.
+- ⚡ Fun fact: Love interesting stuff and solve riddles.
 
 
-A RealTime Techie Architect, arm with **Python**, **Java**, **Scala** proj in **Flink**, **Paimon**, **Seatunnel**, **Doris**, StreamPark, ElasticSearch, Neo4j, Dinky and etc. Love learning new things and building interesting stuff.
+RealTime Techie arms with **Python**, **Java**, **Scala** proj in **Flink**, **Paimon**, **Seatunnel**, **Doris**, StreamPark, ElasticSearch, Neo4j, Dinky, etc.
 
 **Social Links:**
 
