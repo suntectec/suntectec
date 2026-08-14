@@ -7,7 +7,6 @@
   - Apache Flink
   - Apache Flink CDC
   - Apache Paimon
-  - Apache Seatunnel
 - 📫 How to reach me: suntectec@apache.org
 - ⚡ Fun fact: I like to solve riddles. So let me know if you have some good ones.
 
