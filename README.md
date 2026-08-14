@@ -1,28 +1,22 @@
-<h1 align="center">The Apache Community Contributor in AI & RealTime</h3>
+### Hi there 👋
 
-<p align="center">
-<!--   <img src="https://apache.org/foundation/press/kit/asf-estd-1999-logo.svg" alt="apache logo" width="520"/> -->
-<!--   <img src="https://apache.org/foundation/press/kit/Indigo_THE_APACHE_WAY_Badge.png" alt="apache logo" width="520"/> -->
-<!--   <img src="https://apache.org/foundation/press/kit/asf-estd-1999-logo.png" alt="apache logo" width="520"/> -->
-  <img src="https://apache.org/foundation/press/kit/community_over_code_logo.png" alt="apache logo" width="520"/>
-<!--   <img src="https://apache.org/logos/res/flink/flink-1.png" alt="apache logo" width="520"/>
-  <img src="https://apache.org/logos/res/paimon/paimon.png" alt="apache logo" width="520"/>
-  <img src="https://apache.org/logos/res/doris/doris.png" alt="apache logo" width="520"/>
-  <img src="https://apache.org/logos/res/seatunnel/seatunnel.png" alt="apache logo" width="520"/> -->
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Apache-suntectec-white?logo=apache&logoColor=%23E6526F&labelColor=black" alt="CI Badge"/>
-</p>
+- 🔭 I’m currently working on [Flink](http://github.com/apache/flink), [Flink CDC](http://github.com/apache/flink-cdc) and [Paimon](https://github.com/apache/paimon)
+- 👯 I’m looking to collaborate on [Flink](http://github.com/apache/flink), [Flink CDC](http://github.com/apache/flink-cdc) and [Paimon](https://github.com/apache/paimon)
+- 🤔 I’m looking for help with [Flink](http://github.com/apache/flink), [Flink CDC](http://github.com/apache/flink-cdc) and [Paimon](https://github.com/apache/paimon)
+- 💬 Ask me about
+  - Apache Flink
+  - Apache Flink CDC
+  - Apache Paimon
+  - Apache Seatunnel
+- 📫 How to reach me: suntectec@apache.org
+- ⚡ Fun fact: I like to solve riddles. So let me know if you have some good ones.
 
-[SunTecTec](https://suntectec.com)
 
 A RealTime Techie Architect, arm with **Python**, **Java**, **Scala** proj in **Flink**, **Paimon**, **Seatunnel**, **Doris**, StreamPark, ElasticSearch, Neo4j, Dinky and etc. Love learning new things and building interesting stuff, meanwhile a Blockchain Enthusiast and Gamer.
 
 **Social Links:**
 
-- 📫 Github: https://github.com/suntectec
-- 📫 Blog: https://suntectec.com
-- 📫 CSDN：https://blog.csdn.net/m0_63628018
+- 👯 CSDN：https://blog.csdn.net/m0_63628018
 
 <!--
 **suntectec/suntectec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
